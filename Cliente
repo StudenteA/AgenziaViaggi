@@ -6,3 +6,5 @@ Nel diagramma dei casi d'uso sono rappresentati le relative azioni che essi poss
    - Effettua la prenotazione di un viaggio.
    - Gestisce il proprio profilo utente.
 
+Nel diagramma di sequenza: Il cliente seleziona una vacanza e avvia il processo di acquisto.
+
