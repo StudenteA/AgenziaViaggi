@@ -1,0 +1,4 @@
+Nel diagramma dei casi d'uso sono rappresentati le relative azioni che essi possono compiere sul sistema:
+
+1. Sistema di Pagamento: Rappresenta il sistema esterno con cui il sito di viaggi interagisce per processare i pagamenti.
+   - Effettua il pagamento.
