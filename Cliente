@@ -1,1 +1,8 @@
+Nel diagramma dei casi d'uso sono rappresentati le relative azioni che essi possono compiere sul sistema:
+
+1. Cliente: Rappresenta gli utenti che interagiscono con il sito per cercare e prenotare viaggi.
+   - Effettua la ricerca di viaggi.
+   - Visualizza i dettagli dei viaggi.
+   - Effettua la prenotazione di un viaggio.
+   - Gestisce il proprio profilo utente.
 
