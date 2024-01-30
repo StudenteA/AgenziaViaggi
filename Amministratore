@@ -4,3 +4,9 @@ Nel diagramma dei casi d'uso sono rappresentati le relative azioni che essi poss
    - Aggiunge/rimuove pacchetti viaggio.
    - Gestisce le prenotazioni.
    - Gestisce il sistema.
+
+Nel diagramma di sequenza:
+
+Il sistema richiede i dettagli di pagamento al cliente.
+Il sistema contatta la banca per autorizzare il pagamento.
+Il sistema conferma la prenotazione al cliente.
