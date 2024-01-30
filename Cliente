@@ -7,6 +7,6 @@ Nel diagramma dei casi d'uso sono rappresentati le relative azioni che essi poss
    - Gestisce il proprio profilo utente.
 
 Nel diagramma di sequenza: 
+
 Il cliente seleziona una vacanza e avvia il processo di acquisto.
 Il cliente fornisce i dettagli di pagamento.
-
